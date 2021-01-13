@@ -1,4 +1,4 @@
-public class demotest {
+public class demo_test {
     //내가 푼 답안. 정확성 100 효율성 0
     public static int[] solution01(int[][] v) {
         int[] answer = new int[2];
