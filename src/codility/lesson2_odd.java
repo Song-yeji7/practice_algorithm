@@ -23,7 +23,10 @@ public class lesson2_odd {
                 tmp = A[i];
                 cnt = 1;
             }
-            System.out.println(tmp+","+A[i]+","+cnt);
+
+            if(i == A.length-1 && cnt%2 != 0){
+                result = tmp;
+            }
         }
 
         return result;
