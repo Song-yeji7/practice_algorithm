@@ -11,7 +11,6 @@ public class lesson2_odd {
         int result = tmp;
         int cnt = 1;
 
-        System.out.println(tmp+","+A[0]+","+cnt);
         for(int i = 1; i<A.length; i++){
             if(tmp == A[i])
                 cnt++;
