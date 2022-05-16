@@ -90,6 +90,6 @@ public class kakao_blind_2022_01 {
 
         int[] result = solution(id_list, report, k);
 
-        //System.out.println(result);
+        //System.out.println(result); 
     }
 }
